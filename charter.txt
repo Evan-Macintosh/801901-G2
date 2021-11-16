@@ -4,17 +4,33 @@ GroupName.txt
 >>Availability for meeting expectations
 Meet at least twice per week, meet once per week during lab period, once per week Thursday night (7pm). 
 
->>Response time to communication expectations 
+>>Response time to communication expectations
+Response time within 24 hours, through teams group
 
 >>Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
 A task is considered complete when a task is submitted for review either by GitHub or through communication in Teams Chat and is fully reviewed by the appointed people and applied to an objective, is it considered complete.
 
 >>Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+Meeting twice per week
+Evan - group leader
+Emily - task manager
+Tasha - note taker
 
 >>Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
+Make sugestions to group in/outside of standup. 
+Make group based decisions and take everyones input into account.
+Have all pull requests require three approvals with thoughful comments added to areas of code that could use improvement.
+Update group on any major changes made to code or code structure. 
+Include important information in comments so work can be picked up by anyone. 
+Branch names and pull request comments should be simple and reflective of the current task.
+Branches and tasks should be broken down into managable pieces.
+
 
 >>Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
+1) Contact the individual that is not meeting expectations.
+2) Figure out what is causing them from not meeting expectations and see if there is a simple solution to fix the current problem through a call. 
+3) Have a group meeting deciding how the problem can be resolved.
 
 >>Signatures: each member must sign their name by typing their name at the bottom of the document.
