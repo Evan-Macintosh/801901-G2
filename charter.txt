@@ -1,12 +1,20 @@
 GroupName.txt
 
 
-Availability for meeting expectations: Meet at least twice per week, meet once per week during lab period, once per week Thursday night (7pm). 
-Response time to communication expectations 
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.): A task is considered complete when a task is submitted for review either by GitHub or through communication in Teams Chat and is fully reviewed by the appointed people and applied to an objective, is it considered complete.
-Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+>>Availability for meeting expectations
+Meet at least twice per week, meet once per week during lab period, once per week Thursday night (7pm). 
+
+>>Response time to communication expectations 
+
+>>Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+A task is considered complete when a task is submitted for review either by GitHub or through communication in Teams Chat and is fully reviewed by the appointed people and applied to an objective, is it considered complete.
+
+>>Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+
+>>Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
-Procedure for handling a member who is not meeting expectations
+
+>>Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
-Signatures: each member must sign their name by typing their name at the bottom of the document.
+
+>>Signatures: each member must sign their name by typing their name at the bottom of the document.
